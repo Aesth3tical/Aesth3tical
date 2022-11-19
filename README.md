@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?Aesth3tical=Aesth3tical)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aesth3tical=Aesth3tical)
 [![GitHub metrics](https://metrics.lecoq.io/Aesth3tical?languages=1&isocalendar=1&followup=1)](https://github.com/lowlighter/metrics)
 
 ```js
