@@ -1,9 +1,28 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?Aesth3tical=Aesth3tical)
 [![GitHub metrics](https://metrics.lecoq.io/Aesth3tical?languages=1&isocalendar=1&followup=1)](https://github.com/lowlighter/metrics)
+
+```js
+class Dan extends Scripter {
+  constructor() {
+    this.name = 'Dan';
+    this.location = 'Michigan, United States';
+    this.age = 17;
+    this.languages = [ 'JavaScript', 'Python', 'C#' ];
+    this.frameworks_and_other: [ 'React', 'Express', 'EJS', 'Node.js', 'Git', 'Mongodb' ];
+  }
+  
+  init() {
+    console.log('Welcome to my GitHub!');
+  }
+}
+
+new Dan().init()
+```
 
 ## Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
 ## Runtimes, Databases, Libraries and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
