@@ -6,7 +6,7 @@ class Dan extends Scripter {
   constructor() {
     this.name = 'Dan';
     this.location = 'Michigan, United States';
-    this.age = 17;
+    this.age = 18;
     this.languages = [ 'JavaScript', 'Python', 'C#', 'HTML', 'CSS' ];
     this.frameworks_and_other: [ 'Express', 'EJS', 'Node.js', 'Git', 'Mongodb' ];
   }
